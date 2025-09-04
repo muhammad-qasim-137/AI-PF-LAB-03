@@ -2,9 +2,9 @@
 LEARNING GITHUB
 # heading 2
 <br\>
-_yo_
+_yo italic_
 <br\>
-*yo*
+*bold yo*
 <br\>
 ~~ 
 <br\>
